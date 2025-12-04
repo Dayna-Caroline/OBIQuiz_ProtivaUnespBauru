@@ -8,7 +8,7 @@ Uma aplicação web de Quiz interativa, leve e moderna. O projeto utiliza uma **
 ---
 
 ## 🔗 Demonstração
-### [👉 Clique aqui para acessar o CompQuiz Online]([[https://seu-usuario.github.io/seu-repositorio/](https://dayna-caroline.github.io/OBIQuiz_ProtivaUnespBauru/)
+### [👉 Clique aqui para acessar o CompQuiz Online](https://dayna-caroline.github.io/OBIQuiz_ProtivaUnespBauru/)
 
 ---
 
@@ -121,5 +121,6 @@ Contribuições são bem-vindas! Se você quiser adicionar um novo quiz:
 <p align="center">
   Feito com 💙 para o GitHub Pages
 </p>
+
 
 
